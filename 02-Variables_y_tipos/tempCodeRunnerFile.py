@@ -1,0 +1,1 @@
+texto_unido=mi_texto + "\n " + mi_texto_2
